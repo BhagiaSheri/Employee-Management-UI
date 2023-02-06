@@ -1,8 +1,8 @@
 # Disclaimer
 
-The startup code was provided by MIU proessor Muhyidean for WAA Final Exam. \
-This is the final submitted soltion for exam. \
-Exam PDF also provided for undersatnding the requirements.
+- The startup code was provided by MIU proessor Muhyidean for WAA Final Exam. \
+- This is the final submitted soltion for exam. \
+- Exam PDF also provided for undersatnding the requirements.
 
 ## This Solution (Employee Management Application) contains the following functionalities:
 1. Add New Employee.
