@@ -19,3 +19,6 @@
 
 ## For startup Frontend code clone the below repository:
 [https://github.com/muhyidean/SecondExamJan23-Frontend](https://github.com/muhyidean/SecondExamJan23-Frontend)
+
+## For Requirement understaning watch the below video:
+[https://github.com/BhagiaSheri/Employee-Management-UI/blob/main/SecondExam-Jan23.mkv](https://github.com/BhagiaSheri/Employee-Management-UI/blob/main/SecondExam-Jan23.mkv)
